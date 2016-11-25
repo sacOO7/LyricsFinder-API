@@ -13,7 +13,7 @@ public class Main {
 
 
         try {
-            for(LyricInfo aresult : ViewLyricsSearcher.search("kodaline","All i want", 2).getLyricsInfo()) //Artist, Title, Page
+            for(LyricInfo aresult : ViewLyricsSearcher.search("westlife","my love", 1).getLyricsInfo()) //Artist, Title, Page
                 System.out.println(aresult.dump());
         } catch (IOException | NoSuchAlgorithmException | SAXException | ParserConfigurationException e) {
             e.printStackTrace();
