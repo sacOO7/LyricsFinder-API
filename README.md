@@ -1,7 +1,6 @@
-# LyricsFinder
-Lyrics downloader API in java
+# LyricsFinder API
 
-Download [dependency jar]()
+Download [dependency jar](https://github.com/sacOO7/LyricsFinder-API/blob/master/out/artifacts/LyricsParser_jar/LyricsParser.jar?raw=true)
 
 ### How to use?
 
